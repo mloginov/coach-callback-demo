@@ -1,5 +1,5 @@
 {
-  "name": "Coach callback demo plugin",
+  "name": "Coach callback demo plugin v1",
   "type": "helper",
   "properties": {
     "user_type": "all",
